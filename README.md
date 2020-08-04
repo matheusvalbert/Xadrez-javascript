@@ -11,4 +11,4 @@ Todo o código do jogo foi realizado utilizando orientação a objeto.
 Basta baixar os arquivos e clicar no arquivo index.html.
 ```
 
-![alt text] https://github.com/matheusvalbert/Xadrez-javascript/blob/master/jogo_imagem.png?raw=true
+![alt text] https://github.com/matheusvalbert/Xadrez-javascript/blob/master/jogo_imagem.png
