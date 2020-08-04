@@ -2,7 +2,7 @@
 
 # Introdução
 ```
-Estas atividades foram desenvolvidas para o sétimo semestre na disciplina de Tópicos de Programação.
+Estas atividades foram desenvolvidas para o sexto semestre na disciplina de Tópicos de Programação.
 Foi realizado um jogo de xadrez com regras básicas utilizando HTML e JavaStricpt.
 Todo o código do jogo foi realizado utilizando orientação a objeto.
 ```
