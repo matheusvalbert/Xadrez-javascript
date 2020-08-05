@@ -1,5 +1,3 @@
-# Xadrez-javascript
-
 # Introdução
 ```
 Estas atividades foram desenvolvidas para o sexto semestre na disciplina de Tópicos de Programação.
